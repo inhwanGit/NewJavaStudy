@@ -1,4 +1,4 @@
-package Day01;
+package Day1;
 
 // import : 외부 클래스 포함시키는 키워드
 // * import 패키지명.클래스명;

@@ -1,4 +1,4 @@
-package Day01;
+package Day1;
 
 public class Ex02_Print {
     public static void main(String[] args) {
