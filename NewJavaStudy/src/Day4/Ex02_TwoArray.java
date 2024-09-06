@@ -1,6 +1,6 @@
 package Day4;
 
-public class Ex02_twoArray {
+public class Ex02_TwoArray {
     public static void main(String[] args) {
         // 1차원 배열 생성과 다르게 2차원 배열은 아래와 같이 생성할 수 있다.
         // int [][]array X, int array[][] X
