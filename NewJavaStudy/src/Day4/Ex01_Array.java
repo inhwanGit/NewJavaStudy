@@ -17,6 +17,8 @@ public class Ex01_Array {
         arr[3] = 4;
         arr[4] = 5;
 
+        int arr1[] = {1,2,3}; // 가능
+
         // 배열의 길이 : 배열 요소의 개수 = 배열명.length
         System.out.println(arr.length);
 
