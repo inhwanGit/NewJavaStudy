@@ -15,8 +15,13 @@ public class Pikachu {
     // 생성자
     // * 기본 생성자는 정의하지 않으면 컴파일러가 자동으로 정의해준다.
     public Pikachu(int energy, String type) {
-        this.energy = energy;
+        this.energy = energy; // this : 현재 객체 자신을 가리키는 레퍼런스(객체의 멤버(변수/메소드)에 접근할 때 사용
+                              // * 필요성 : 멤버변수의 이름과 메소드의 매개변수의 이름이 같을 때, 이를 구분해주기 위해 사용, EX) (멤버변수) - this.name, (매개변수) - name
         this.type = type;
+    }
+
+    public Pikachu() {
+        this(100, "전기"); // 매개변수가 있는 생성자를 호출하여 값을 넣어줄 수 있다. this()는 항상 첫번째 문장에 있어야 한다.
     }
 
     // 메소드
