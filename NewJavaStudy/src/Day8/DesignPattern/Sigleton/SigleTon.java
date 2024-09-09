@@ -10,4 +10,17 @@ package Day8.DesignPattern.Sigleton;
 * - 객체를 하나만 생성하기 때문에, 메모리를 효율적으로 사용
 **/
 public class SigleTon {
+
+    // static 으로 유일한 객체를 생성
+    private static SigleTon instance = new SigleTon();
+
+    // 생성자를 private으로 정의하여 외부에서 객체 생성하는 것을 막음
+    private SigleTon() {}
+
+    // 유일한 객체를 가져오는 메소드
+    public static SigleTon getInstance() {
+        if(instance == null) {instance = new SigleTon();}
+        return instance;
+    }
+
 }
