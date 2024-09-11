@@ -27,7 +27,7 @@ public class ArithmeticException {
         // - Exception 으로 지정하면 모든 예외 상황에 대해서 처리한다.
         catch (java.lang.ArithmeticException e) {
             // 예외 발생 시, 실행할 예외 처리 문장®
-            System.out.println("0으로 나누는 연산은 수학적으로 정의되지 않습니다.");
+            System.err.println("0으로 나누는 연산은 수학적으로 정의되지 않습니다.");
         }
         // finally 블록 (생략가능)
         finally {
