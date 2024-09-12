@@ -31,7 +31,7 @@ public class ClassCastException {
         Dog dog = new Dog();              // 가능
         changeToDog(dog);
 
-        Cat cat = new Cat();             // 불가능
+        Cat cat = new Cat();             // 불가능'
         changeToDog(cat);
     }
 }
