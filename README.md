@@ -13,3 +13,4 @@
 ##### • [Java 배열](https://inhwan19991120.tistory.com/40)
 ##### • [Java 접근지정자](https://inhwan19991120.tistory.com/41)
 ##### • [Java 캡슐화](https://inhwan19991120.tistory.com/42)
+##### • [Java 캡슐화2](https://inhwan19991120.tistory.com/42)
