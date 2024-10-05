@@ -13,8 +13,10 @@
 ##### • [Java 배열](https://inhwan19991120.tistory.com/40)
 ##### • [Java 접근지정자](https://inhwan19991120.tistory.com/41)
 ##### • [Java 캡슐화](https://inhwan19991120.tistory.com/42)
-##### • [Java 캡슐화2](https://inhwan19991120.tistory.com/42)
+##### • [Java 캡슐화2] (https://inhwan19991120.tistory.com/42)
+
 ##### • [Java 컬렉션](https://inhwan19991120.tistory.com/42)
 ##### • [Java 컬렉션2](https://inhwan19991120.tistory.com/42)
 ##### • [Java 컬렉션응용](https://inhwan19991120.tistory.com/42)
 ##### • [Java 컬렉션응용2](https://inhwan19991120.tistory.com/42)
+##### • [Java array] (https://inhwan19991120.tistory.com/42)
